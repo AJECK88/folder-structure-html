@@ -1,0 +1,19 @@
+/* Resets and variables */
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --font-family: "Arial", sans-serif;
+}
+
+.flex {
+  display: flex;
+}
+.grid {
+  display: grid;
+}
+
+.img1 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}

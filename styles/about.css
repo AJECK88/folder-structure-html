@@ -1,0 +1,10 @@
+.about__flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .header__lists li {
+  margin: 0 10px;
+} */
