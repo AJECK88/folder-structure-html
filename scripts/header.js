@@ -10,7 +10,7 @@ const headerContent = `
     <div class="header__links">
       <ul class="header__list">
         <li class="header__item"><a href="index.html">Home</a></li>
-        <li class="header__item"><a href="about.html">About</a></li>
+        <li class="header__item"><a href="./pages/about.html">About</a></li>
         <li class="header__item"><a href="contact.html">Contact</a></li>
         <li class="header__item"><a href="gallery.html">Gallery</a></li>
       </ul>
